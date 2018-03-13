@@ -1,4 +1,1 @@
 RewriteEngine On
-
-RewriteCond %{HTTP_HOST} ^((.*)\.)?(redis\.pl)$ [NC]
-RewriteRule ^ https://redis.io [R=302,L,NE]
