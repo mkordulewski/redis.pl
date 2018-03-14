@@ -2,5 +2,5 @@
 
 * Polish Redis website:
   * http://redis.pl/
-* Redirects to Redis website:
+* Based on main Redis website:
   * https://redis.io/
