@@ -1,6 +1,6 @@
 # Redis.pl
 
 * Polish Redis website:
-  * http://redis.pl/
+  * https://redis.pl/
 * Based on main Redis website:
   * https://redis.io/
